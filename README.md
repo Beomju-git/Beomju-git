@@ -1,9 +1,11 @@
 #### 🙋‍♂️ Profile
 Algorithm Learner/beginner
 
- ### 📧 Contact
+### 📧 Contact
  [kategory333@gmail.com](https://www.google.com/intl/ko/gmail/about/)
 
+### Skills
+- Python, Django, Vue, JavaScripts, Rest API
 
 ### 📖 Education 
   <img src="https://avatars.githubusercontent.com/u/68984126?s=200&v=4" width="100" height="100" />
